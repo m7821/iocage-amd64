@@ -1,7 +1,7 @@
 {
   "name": "emby-server",
   "release": "13.1-RELEASE",
-  "artifact": "https://github.com/MediaBrowser/iocage-amd64.git",
+  "artifact": "https://github.com/m7821/iocage-amd64",
   "pkgs": [
     "audio/libogg",
     "audio/libvorbis",
